@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: dbsyncer-sdk-2.0.2_0528-RC.jar
+

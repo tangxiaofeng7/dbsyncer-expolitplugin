@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="test-plugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/test_plugin_jar</output-path>
+    <root id="root">
+      <element id="archive" name="test-plugin.jar">
+        <element id="module-output" name="dbsyncer-expolitplugin" />
+        <element id="module-source" name="dbsyncer-expolitplugin" />
+      </element>
+      <element id="library" level="project" name="dbsyncer-sdk-2.0.2_0528-RC (2)" />
+    </root>
+  </artifact>
+</component>
